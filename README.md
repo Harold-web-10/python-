@@ -229,7 +229,7 @@ La expresión utilizada fue:
 ### Código
 
 ```python
-x = float(x)
+x = float(input("Ingrese el valor de x: "))
 
 y = 3 * x**3 - 2 * x**2 + 3 * x - 1
 
@@ -245,6 +245,65 @@ print("y =", y)
 | -1 | -9.0 |
 
 ---
+Reto 1 - Calculadora de Métricas del Desarrollador
+Objetivo
+
+Desarrollar un programa que registre las horas dedicadas por un desarrollador a cada uno de sus proyectos y genere un reporte con estadísticas de trabajo.
+
+Temas aplicados
+Entrada y salida de datos.
+Variables.
+Conversión de datos.
+Listas.
+Ciclos for.
+Función sum().
+Formato de salida con f-strings.
+Funcionalidades
+Solicita el nombre del desarrollador.
+Solicita la cantidad de proyectos.
+Registra las horas de cada proyecto.
+Calcula el total de horas trabajadas.
+Calcula el promedio de horas por proyecto.
+Calcula el porcentaje de horas por proyecto.
+Presenta un reporte tabulado.
+Reto 2 - Sistema Simplificado de Calificación e Inventario
+Objetivo
+
+Clasificar el estado del inventario de un almacén informático mediante listas y estructuras condicionales.
+
+Temas aplicados
+Listas.
+Condicionales (if, elif y else).
+Ciclos for.
+enumerate().
+Operaciones matemáticas.
+Funcionalidades
+Recorre una lista de inventario.
+Clasifica cada producto como:
+Adecuado.
+Crítico.
+Agotado.
+Genera la lista de productos agotados.
+Genera la lista de productos críticos.
+Calcula el porcentaje de disponibilidad del inventario.
+Reto 3 - Motor de Análisis de Frecuencia de Texto
+Objetivo
+
+Analizar un texto ingresado por el usuario para determinar la frecuencia de aparición de cada palabra.
+
+Temas aplicados
+Cadenas de texto.
+Diccionarios.
+Bucles.
+Métodos de cadenas.
+Conteo de palabras.
+Funcionalidades
+Solicita una frase o párrafo.
+Convierte el texto a minúsculas.
+Elimina signos de puntuación básicos.
+Cuenta la frecuencia de cada palabra.
+Identifica la palabra con mayor número de apariciones.
+Muestra el diccionario de frecuencias.
 
 # ¿Cómo ejecutar los programas?
 
@@ -310,6 +369,15 @@ Durante el desarrollo de estos laboratorios se aprendieron los siguientes concep
 - Conversión de tipos mediante `float()`.
 - Conversión de unidades.
 - Evaluación de expresiones algebraicas.
+- Listas.
+- Diccionarios.
+- Ciclos for.
+- Condicionales (if, elif, else).
+- Función enumerate().
+- Función sum().
+- Métodos para manipular cadenas.
+- Formato de salida mediante f-strings.
+- Resolución de problemas mediante algoritmos.
 
 ---
 
