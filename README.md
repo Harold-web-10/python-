@@ -266,6 +266,8 @@ Calcula el total de horas trabajadas.
 Calcula el promedio de horas por proyecto.
 Calcula el porcentaje de horas por proyecto.
 Presenta un reporte tabulado.
+
+
 Reto 2 - Sistema Simplificado de Calificación e Inventario
 Objetivo
 
@@ -286,6 +288,8 @@ Agotado.
 Genera la lista de productos agotados.
 Genera la lista de productos críticos.
 Calcula el porcentaje de disponibilidad del inventario.
+
+
 Reto 3 - Motor de Análisis de Frecuencia de Texto
 Objetivo
 
